@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "title": "Post 1",
+      "body": "Some random posters",
+      "userId": 23,
+      "id": 1
+    },
+    {
+      "title": "Post 2",
+      "body": "Some random posters",
+      "userId": 23,
+      "id": 2
+    },
+    {
+      "title": "Post 3",
+      "body": "Some random posters",
+      "userId": 23,
+      "id": 3
+    },
+    {
+      "id": 378,
+      "title": "new Post",
+      "body": "content",
+      "userId": 825
+    },
+    {
+      "id": 338,
+      "title": "another post",
+      "body": "content 2",
+      "userId": 280
+    },
+    {
+      "id": 996,
+      "title": "third one",
+      "body": "content 3",
+      "userId": 617
+    },
+    {
+      "id": 224,
+      "title": "jhjjbjbjhhj",
+      "body": "ghj",
+      "userId": 572
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "body": "Some random comment",
+      "userId": 23
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "body": "Some random comment",
+      "userId": 23
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "body": "Some random comment",
+      "userId": 23
+    }
+  ],
+  "profile": {
+    "name": "John Doe",
+    "age": 23,
+    "email": "random@gmail.com",
+    "id": 23,
+    "address": {
+      "city": "New York",
+      "street": "Random street",
+      "zipcode": "12345"
+    },
+    "company": {
+      "name": "Random company",
+      "catchPhrase": "Some random catch phrase",
+      "bs": "Some random bs"
+    }
+  }
+}
